@@ -195,7 +195,7 @@ var audioCapture = {
       audioCapture.analyser.connect(audioCapture.context.destination);
     });
 
-    this.audio.src = "assets/mp3/Charles_Bradley_Dusty_Blue.mp3";
+    this.audio.src = "assets/mp3/Elise.mp3";
     this.audio.play();
   }
 };
